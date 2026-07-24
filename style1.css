@@ -1,0 +1,19 @@
+h1{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+h2:hover{
+    color: rgb(202, 104, 252);
+    background-color: bisque;
+}
+
+p :hover{
+    color: red;
+    background-color: blanchedalmond;
+    transition: 2s;
+}
+a{
+    text-decoration: none;
+    
+}
